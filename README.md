@@ -1,4 +1,4 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Francesco👋</h2>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello there! I'm Francesco👋</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
