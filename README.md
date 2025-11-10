@@ -31,8 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/francescolaudato">
-  <img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=francescolaudato&theme=dark" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolaudato&theme=dark&layout=compact" alt="Top Languages" />
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescolaudato&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top LanguagesGitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=francescolaudato&theme=dracula&hide_border=true)" alt="GitHub Streak" />
 </p>
 </a>
 </p>
